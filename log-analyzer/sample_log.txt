@@ -1,0 +1,9 @@
+[2025-05-26 14:01:23] INFO User login successful: user=jdoe
+[2025-05-26 14:02:01] WARNING Disk space low on volume /dev/sda1
+[2025-05-26 14:02:35] ERROR Failed to open database connection
+[2025-05-26 14:03:00] INFO Scheduled backup started
+[2025-05-26 14:03:45] LOGIN FAILED user=admin ip=192.168.1.5
+[2025-05-26 14:04:00] LOGIN FAILED user=guest ip=10.0.0.11
+[2025-05-26 14:04:23] WARNING High CPU usage detected
+[2025-05-26 14:04:30] ERROR Disk read failure
+[2025-05-26 14:05:00] INFO User logout: user=jdoe
